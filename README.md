@@ -39,6 +39,9 @@ I am [Prabhat](https://www.linkedin.com/in/prabhat-kumar-nahak-941052a7), a DevO
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
+    <a href="https://cloud.google.com/" target="_blank" >
+    <img src="https://bit.ly/3oMRNEr"  height="75" />
+  </a>
  </p>
   
 ### Databases and Monitoring
